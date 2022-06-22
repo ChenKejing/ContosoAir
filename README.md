@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/chenkejing0144/DI-Trust-Infrastructure/_apis/build/status/ChenKejing.ContosoAir?branchName=master)](https://dev.azure.com/chenkejing0144/DI-Trust-Infrastructure/_build/latest?definitionId=42&branchName=master)
 
 # Microsoft.Github CI Demo
 
