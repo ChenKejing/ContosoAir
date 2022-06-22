@@ -1,7 +1,11 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 [![Build Status](https://dev.azure.com/chenkejing0144/DI-Trust-Infrastructure/_apis/build/status/ChenKejing.ContosoAir?branchName=master)](https://dev.azure.com/chenkejing0144/DI-Trust-Infrastructure/_build/latest?definitionId=42&branchName=master)
 
+<<<<<<< HEAD
 # Microsoft.Github CI Demo 1
+=======
+# Microsoft.Github CI Demo
+>>>>>>> 7fc0643c4fe63f4a926b2800cc1f0d0cd5b302d4
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
